@@ -40,19 +40,19 @@ npm start
 
 ### Javascript improvements
 
-*Event handling*
+**Event handling**
 As it is currently, there is not any custom Javascript components built out to handle things like signup, or modal overlays. I think for this I would want to dig into some component JS functionality that be reused elsewhere on the site. 
 
-*custom animation/illustration*
+**custom animation/illustration**
 Also, the illustrations are really interesting. In the hero element or the big cube section in the beginning, I would ask what purpose that area can serve, perhaps it can tie to some interactive data points to showcase some of the product features. 
 
-*custom AI search input* 
+**custom AI search input**
 On the 'Increase Conversions and Lower Bounce' section, it wasn't really clear from the mockup what that input box can do, return, and how to use it. Ideally, this would be another good place for JS to work with calls to the technology that drives the enrichment tools of the product. And really hone in on how customers could potentially *test drive* a search? 
 
 ### Animation & css
 Given I was only provided one comp, I ran out of time to do the mobile mockup, but if I were to re-do this, I would start mobile-first. Then work my way out to a larger design. Also, there can be room for some simple but not overly exagerrated and functional animation. Like having the navigation slide down on scroll down, or slide down on scroll up. Google has a good guide in their web fundamentals on performance for animation too. via the [RAIL method](https://developers.google.com/web/fundamentals/performance/rail);
 
-*illustrations*
+**illustrations**
 A lot of the illustrations can me made in CSS3 as well most likely. So instead of loading an image, we could potentially build areas where an illustration is needed without requesting an image from the server
 
 ### Test and build out comp more

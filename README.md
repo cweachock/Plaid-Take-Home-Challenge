@@ -1,8 +1,3 @@
-# Template README for Web Developer take-home
-
-*Fill this template out before submitting your take-home to your recruiting
-coordinator.*
-
 ## Installation
 
 To setup this project and install it's tools/dependencies, if any, run the
